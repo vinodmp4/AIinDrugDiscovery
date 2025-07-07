@@ -1,0 +1,5 @@
+NC1=C(O)CC(C(CC(=O)O)CC(=O)O)=NC=C1
+O=C(O)C[C@H]1OCCC[C@@H]1O
+O=C(O)C[C@H](O)C(=O)O
+C=C[C@H](CO)CNC(=O)Cc1sc2cccc(C)c2c1F
+Cc1nccc(C2=N[C@@H]([C@@H]3C=CCCO3)[C@@](O)(F)O2)c1O
